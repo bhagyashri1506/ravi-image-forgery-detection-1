@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/ravi-image-forgery-detection-1/static/js/main.5349de8f.js",
+    "static/media/home-page.png": "/ravi-image-forgery-detection-1/static/media/home-page.b0e93a44bd36c3b8da86.png",
+    "static/media/kpmg-logo.png": "/ravi-image-forgery-detection-1/static/media/kpmg-logo.31e0f45cfdf60a82edc0.png",
+    "index.html": "/ravi-image-forgery-detection-1/index.html",
+    "main.5349de8f.js.map": "/ravi-image-forgery-detection-1/static/js/main.5349de8f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5349de8f.js"
+  ]
+}
