@@ -1,12 +1,17 @@
 {
   "files": {
-    "main.js": "/ravi-image-forgery-detection-1/static/js/main.9ce0ba45.js",
+    "main.js": "/ravi-image-forgery-detection-1/static/js/main.f2195b7a.js",
+    "static/media/2_result_clone.jpg": "/ravi-image-forgery-detection-1/static/media/2_result_clone.cd28e9025cbe97f3e6f2.jpg",
+    "static/media/1_result_clone.png": "/ravi-image-forgery-detection-1/static/media/1_result_clone.ff3c1a09347323ba5826.png",
+    "static/media/2_result_ela.jpg": "/ravi-image-forgery-detection-1/static/media/2_result_ela.dcdf5b16a81152986e7e.jpg",
     "static/media/home-page.png": "/ravi-image-forgery-detection-1/static/media/home-page.b0e93a44bd36c3b8da86.png",
+    "static/media/1_result_ela.png": "/ravi-image-forgery-detection-1/static/media/1_result_ela.fb4e80713e081ac81134.png",
+    "static/media/loader.png": "/ravi-image-forgery-detection-1/static/media/loader.0af003c806d2f5052673.png",
     "static/media/kpmg-logo.png": "/ravi-image-forgery-detection-1/static/media/kpmg-logo.31e0f45cfdf60a82edc0.png",
     "index.html": "/ravi-image-forgery-detection-1/index.html",
-    "main.9ce0ba45.js.map": "/ravi-image-forgery-detection-1/static/js/main.9ce0ba45.js.map"
+    "main.f2195b7a.js.map": "/ravi-image-forgery-detection-1/static/js/main.f2195b7a.js.map"
   },
   "entrypoints": [
-    "static/js/main.9ce0ba45.js"
+    "static/js/main.f2195b7a.js"
   ]
 }
