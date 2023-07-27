@@ -1,33 +1,25 @@
 {
   "files": {
-    "main.js": "/ravi-image-forgery-detection-1/static/js/main.b339520d.js",
+    "main.js": "/ravi-image-forgery-detection-1/static/js/main.9d20213a.js",
     "static/media/IMG_3548_result_ela.png": "/ravi-image-forgery-detection-1/static/media/IMG_3548_result_ela.9e83f7fe2c0a51c9e26b.png",
+    "static/media/IMG_3552_result_ela.png": "/ravi-image-forgery-detection-1/static/media/IMG_3552_result_ela.f34b0cbff0d87db1b8ed.png",
     "static/media/IMG_3547_result_ela.png": "/ravi-image-forgery-detection-1/static/media/IMG_3547_result_ela.2482a7957ea0d9d7398d.png",
     "static/media/IMG_3548_result_clone.png": "/ravi-image-forgery-detection-1/static/media/IMG_3548_result_clone.418ea8f27270b6cbdf75.png",
-    "static/media/IMG_3547_result_clone.png": "/ravi-image-forgery-detection-1/static/media/IMG_3547_result_clone.31e434a9a8e06e715c34.png",
     "static/media/IMG_3551_result_clone.png": "/ravi-image-forgery-detection-1/static/media/IMG_3551_result_clone.06a812d1f4ce84254261.png",
     "static/media/IMG_3549_result_clone.png": "/ravi-image-forgery-detection-1/static/media/IMG_3549_result_clone.61aedd6eed1eeb0bcbb1.png",
-    "static/media/IMG_3552_result_clone.png": "/ravi-image-forgery-detection-1/static/media/IMG_3552_result_clone.6a3d34a218310cb7f9cb.png",
     "static/media/IMG_3550_result_ela.png": "/ravi-image-forgery-detection-1/static/media/IMG_3550_result_ela.88f930f8d475c54fbde8.png",
     "static/media/IMG_3550_result_clone.png": "/ravi-image-forgery-detection-1/static/media/IMG_3550_result_clone.7ac40d5219a5060f4d81.png",
-    "static/media/assasins_result_ela.png": "/ravi-image-forgery-detection-1/static/media/assasins_result_ela.9fb6f35d2b4faf30dbd5.png",
-    "static/media/tomb_raider_result_ela.png": "/ravi-image-forgery-detection-1/static/media/tomb_raider_result_ela.ae7c39354280095dc425.png",
     "static/media/IMG_3551_result_ela.png": "/ravi-image-forgery-detection-1/static/media/IMG_3551_result_ela.c7d951403f3ddabde81f.png",
-    "static/media/assasins_result_clone.png": "/ravi-image-forgery-detection-1/static/media/assasins_result_clone.d638d500631289a6580e.png",
+    "static/media/IMG_3552_result_clone.png": "/ravi-image-forgery-detection-1/static/media/IMG_3552_result_clone.c221813209ed3116dc4b.png",
+    "static/media/IMG_3547_result_clone.png": "/ravi-image-forgery-detection-1/static/media/IMG_3547_result_clone.a27ac7d170ec9fd7d791.png",
     "static/media/IMG_3549_result_ela.png": "/ravi-image-forgery-detection-1/static/media/IMG_3549_result_ela.b372aa1b89ed8125bbda.png",
-    "static/media/tomb_raider_result_clone.png": "/ravi-image-forgery-detection-1/static/media/tomb_raider_result_clone.a0b44fa6a456ad16cf7e.png",
-    "static/media/IMG_3552_result_ela.png": "/ravi-image-forgery-detection-1/static/media/IMG_3552_result_ela.ffb7119e68257357bfac.png",
-    "static/media/2_result_clone.jpg": "/ravi-image-forgery-detection-1/static/media/2_result_clone.cd28e9025cbe97f3e6f2.jpg",
-    "static/media/1_result_clone.png": "/ravi-image-forgery-detection-1/static/media/1_result_clone.ff3c1a09347323ba5826.png",
-    "static/media/2_result_ela.jpg": "/ravi-image-forgery-detection-1/static/media/2_result_ela.dcdf5b16a81152986e7e.jpg",
     "static/media/home-page.png": "/ravi-image-forgery-detection-1/static/media/home-page.b0e93a44bd36c3b8da86.png",
-    "static/media/1_result_ela.png": "/ravi-image-forgery-detection-1/static/media/1_result_ela.fb4e80713e081ac81134.png",
     "static/media/loader.png": "/ravi-image-forgery-detection-1/static/media/loader.0af003c806d2f5052673.png",
     "static/media/kpmg-logo.png": "/ravi-image-forgery-detection-1/static/media/kpmg-logo.31e0f45cfdf60a82edc0.png",
     "index.html": "/ravi-image-forgery-detection-1/index.html",
-    "main.b339520d.js.map": "/ravi-image-forgery-detection-1/static/js/main.b339520d.js.map"
+    "main.9d20213a.js.map": "/ravi-image-forgery-detection-1/static/js/main.9d20213a.js.map"
   },
   "entrypoints": [
-    "static/js/main.b339520d.js"
+    "static/js/main.9d20213a.js"
   ]
 }
